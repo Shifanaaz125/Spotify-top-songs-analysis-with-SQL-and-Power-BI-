@@ -70,3 +70,8 @@ select genre, year, popularity from song
 where year = 2011
 order by popularity desc
 limit 5;
+
+Q9: Which Year most of the songs was produced?
+
+select Year, sum(song) from song 
+group by year;
