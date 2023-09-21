@@ -13,7 +13,7 @@ GROUP BY genre
 ORDER BY average_popularity DESC
 LIMIT 5;
 
- Q3:Top 10 Most Popular Artist.
+ Q3: Top 10 Most Popular Artist.
 
 SELECT artist, AVG(popularity) AS average_popularity
 FROM song
@@ -21,7 +21,7 @@ GROUP BY artist
 ORDER BY average_popularity DESC
 LIMIT 10; 
 
- Q4: Dose songs lenght effects popularity of song?
+ Q4: Does song length affect the popularity of the song?
 
 SELECT 
     ROUND(duration_ms / 60000, 2) AS duration_minutes,
@@ -36,7 +36,7 @@ FROM song
 GROUP BY explicit
 ORDER BY average_popularity DESC;
 
- Q6: Who is most popular artist between 2010 to 2020 years?
+ Q6: Who is the most famous artist between 2010 and 2020 years?
 
 SELECT artist, AVG(popularity) AS average_popularity
 FROM song
@@ -56,7 +56,7 @@ HAVING MAX(popularity) = (
 )
 ORDER BY year;
 
- Q7: Energy and loudness affects song genre?
+ Q7: Energy and loudness affect song genre?
 
 SELECT genre, AVG(energy) AS average_energy, AVG(loudness) AS average_loudness
 FROM song
