@@ -62,3 +62,11 @@ SELECT genre, AVG(energy) AS average_energy, AVG(loudness) AS average_loudness
 FROM song
 GROUP BY genre
 ORDER BY genre;
+
+Q8: Which genre is most famous in 2011?
+
+select * from song
+select genre, year, popularity from song
+where year = 2011
+order by popularity desc
+limit 5;
