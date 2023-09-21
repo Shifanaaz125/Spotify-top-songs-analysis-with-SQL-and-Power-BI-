@@ -1,4 +1,4 @@
- Q1: Top 5 Most popular Songs?
+Q1: Top 5 Most Popular Songs?
 
 SELECT artist, song, popularity
 FROM song
