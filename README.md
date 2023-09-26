@@ -1,6 +1,6 @@
 # Spotify-top-songs-analysis-with-SQL-and-Power-BI-
 
-![image](![image](https://github.com/Shifanaaz125/Spotify-top-songs-analysis-with-SQL-and-Power-BI-/assets/120267469/a81aa8c8-5dd6-4011-8e61-74ed0b76b698))
+![image]((https://github.com/Shifanaaz125/Spotify-top-songs-analysis-with-SQL-and-Power-BI-/assets/120267469/a81aa8c8-5dd6-4011-8e61-74ed0b76b698))
 
 
 # Objective
