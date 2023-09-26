@@ -1,6 +1,6 @@
 # Spotify-top-songs-analysis-with-SQL-and-Power-BI-
 
-![Uploading image.png…](https://pixabay.com/illustrations/spotify-internet-streaming-online-1759471/)
+![image](https://pixabay.com/illustrations/spotify-internet-streaming-online-1759471/)
 
 
 # Objective
