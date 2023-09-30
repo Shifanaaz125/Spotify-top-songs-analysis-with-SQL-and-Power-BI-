@@ -8,13 +8,17 @@ This SQL project aims to analyze a dataset of songs to derive valuable insights 
 
 These SQL queries provide insights into various aspects of the music dataset, allowing for a deeper understanding of music trends, artist popularity, and the impact of song attributes on their success.
 
- **Q1: Top 5 Most Popular Artists?** 
+ **Q1: Top 5 all-time  Most Popular Artists?** 
  
- Ans: The most popular Eminem, Shakira, Kanye West, Outkast, and Linkin Park.
+ Ans: The most popular Kings of Leon, blink-182, Hoobastank, The Offspring, and Bon Jovi.
 
- **Q2: Top 5 Most Popular Songs?**
+ **Q2: Top all-time 5 Most Popular Songs?**
  
  Ans: Five most popular songs are Without Me, The Real Slim Shady, In the End, Stan,  and Till I Collapse.
+ 
+ **Q3: Top 5 all-time Most Popular Genre?**
+
+ Ans: Five most Popular Genre are 'rock, pop, metal, Dance/Electronic', 'Folk/Acoustic, pop', 'rock, metal', 'metal' and 'World/Traditional, Folk/Acoustic'
 
 
 # Request for Feedback
