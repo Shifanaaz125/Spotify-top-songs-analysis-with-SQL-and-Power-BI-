@@ -18,7 +18,7 @@ These SQL queries provide insights into various aspects of the music dataset, al
  
  **Q3: Top 5 all-time Most Popular Genre?**
 
- Ans: Five most Popular Genre are 'rock, pop, metal, Dance/Electronic', 'Folk/Acoustic, pop', 'rock, metal', 'metal' and 'World/Traditional, Folk/Acoustic'
+ Ans: Five most Popular Genre are 'rock, pop, metal, Dance/Electronic', 'Folk/Acoustic, pop', 'rock, metal', 'metal' and 'World/Traditional, Folk/Acoustic'. 
 
 
 # Request for Feedback
