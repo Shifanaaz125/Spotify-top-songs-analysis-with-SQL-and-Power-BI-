@@ -18,7 +18,15 @@ These SQL queries provide insights into various aspects of the music dataset, al
  
  **Q3: Top 5 all-time Most Popular Genre?**
 
- Ans: Five most Popular Genre are 'rock, pop, metal, Dance/Electronic', 'Folk/Acoustic, pop', 'rock, metal', 'metal' and 'World/Traditional, Folk/Acoustic'. 
+ Ans: Five most Popular Genres are 'rock, pop, metal, Dance/Electronic', 'Folk/Acoustic, pop', 'rock, metal', 'metal' and 'World/Traditional, Folk/Acoustic'. 
+
+ **Q4: Who was the most popular artist between 2010 to 2020 years?**
+
+ Ans: Coldplay was the most popular artist between 2010 and 2020.
+
+ **Q5: Which genre is most famous in 2011?**
+
+ Ans: Popular Genres in 2011 'rock, pop', 'hip hop, pop, latin', 'hip hop, pop', 'hip hop, pop, R&B' and 'pop, Dance/Electronic'.
 
 
 # Request for Feedback
