@@ -73,5 +73,6 @@ limit 5;
 
 Q9: Which Year most of the songs was produced?
 
-select Year, sum(song) from song 
-group by year;
+select year, count(song) from song 
+group by year
+order by year desc;
